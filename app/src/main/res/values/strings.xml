@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VoltageApp</string>
+    <string name="scan_button" />
+    <string name="refresh">refresh</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
